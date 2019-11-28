@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Taviraj|Work+Sans&display=swap');
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 0;
+    color: rgb(47, 47, 47);
+}
+
+h4 {
+    font-family: 'Taviraj', serif;
+    margin-top: 0;
+    color: rgb(82, 82, 82);
+}
