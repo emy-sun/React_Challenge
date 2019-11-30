@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    margin: 4rem 24rem;
+    margin: 0 24rem 4rem 24rem;
 }
 
 .cardItem {
